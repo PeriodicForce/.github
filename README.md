@@ -2,7 +2,7 @@
 
 ## Xenon
 
-### Key Features
+#### Key Features
 
 - **Dynamic Wallpapers:**  
   Create and customize animated or time/event-based wallpapers to keep your desktop fresh and unique.
