@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Periodic table
+## Projects 
 
 ### [Xenon](https://github.com/PeriodicForce/Xenon)
 
